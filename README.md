@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/omarlawaty/faq-card](https://github.com/omarlawaty/faq-card)
+- Live Site URL: [https://faq-card-git-main-omarmo.vercel.app/](https://faq-card-git-main-omarmo.vercel.app/)
 
 ## My process
 
@@ -49,7 +49,5 @@ Users should be able to:
 ## Author
 
 - Name - Omar Mohamed
-- Frontend Mentor - [@OmarMo123
-  ](https://www.frontendmentor.io/profile/OmarMo123)
-- Twitter - [@OmarMo77563488
-  ](https://www.twitter.com/OmarMo77563488)
+- Frontend Mentor - [@OmarMo123](https://www.frontendmentor.io/profile/OmarMo123)
+- Twitter - [@OmarMo77563488](https://www.twitter.com/OmarMo77563488)
